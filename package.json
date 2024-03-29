@@ -1,0 +1,15 @@
+{
+  "name": "autism",
+  "version": "1.0.0",
+  "description": "Autism",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "ext32",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.3"
+  }
+}
