@@ -1,15 +1,23 @@
 {
   "name": "autism",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Autism",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EXT32v/autism.git"
+  },
+  "keywords": ["autism"],
   "author": "ext32",
-  "license": "ISC",
+  "license": "UNLICENSED",
   "devDependencies": {
     "typescript": "^5.4.3"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/EXT32v/autism/issues"
+  },
+  "homepage": "https://github.com/EXT32v/autism.git"
 }
